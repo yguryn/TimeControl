@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TimeControl</string>
+    <string name="reminders_notification_channel_id">NOT_ID</string>
+    <string name="reminders_notification_channel_name">NOT_NAME</string>
+</resources>
